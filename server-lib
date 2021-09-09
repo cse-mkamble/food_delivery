@@ -1,0 +1,14 @@
+
+npm install --save-dev nodemon
+
+npm install --save bcryptjs
+npm install --save body-parser
+npm install --save crypto
+npm install --save express
+npm install --save express-validator
+npm install --save jsonwebtoken
+npm install --save mongoose
+npm install --save multer
+npm install --save nodemailer
+npm install --save nodemailer-sendgrid-transport
+npm install --save socket.io

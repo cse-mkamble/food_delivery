@@ -1,0 +1,13 @@
+cd client
+
+npm install axios
+npm install dayjs
+npm install jwt-decode
+npm install react-places-autocomplete
+npm install react-redux
+npm install react-router-dom
+npm install react-swipeable-views
+npm install react-swipeable-views-utils
+npm install redux
+npm install redux-thunk
+npm install socket.io-client
